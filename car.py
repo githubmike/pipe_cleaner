@@ -23,7 +23,7 @@ class Car:
 
 if __name__ == '__main__':
     my_car = Car()
-    print("I'm a truely amazing car!")
+    print("I'm a truely amazing high performance car!")
     while True:
         action = raw_input("What should I do? [A]ccelerate, [B]rake, "
             "show [O]dometer, or show average [S]peed?").upper()
